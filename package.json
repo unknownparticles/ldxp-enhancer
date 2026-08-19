@@ -1,0 +1,13 @@
+{
+  "name": "ldxp-enhancer",
+  "version": "5.2",
+  "description": "链动小铺增强工具",
+  "main": "src/main.js",
+  "scripts": {
+    "build": "echo 'dist/main.user.js 已生成'",
+    "dev": "echo '直接用 src/main.js 即可开发'"
+  },
+  "keywords": ["tampermonkey", "userscript", "ldxp"],
+  "author": "You",
+  "license": "MIT"
+}
